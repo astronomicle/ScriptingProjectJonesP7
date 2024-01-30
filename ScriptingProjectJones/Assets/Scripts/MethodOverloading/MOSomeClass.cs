@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MOSomeClass : MonoBehaviour
+public class MOSomeClass
 {
     public int Add(int num1, int num2)
     {

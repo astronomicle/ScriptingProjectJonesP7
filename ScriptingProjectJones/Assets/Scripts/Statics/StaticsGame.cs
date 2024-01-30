@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StaticsGame : MonoBehaviour
+public class StaticsGame
 {
     void Start()
     {
